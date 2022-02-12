@@ -15,6 +15,7 @@ Yes! You can reado contributing.md for contributing.
 - c++
 - csharp
 - dart
+- erlang
 - elixir
 - go
 - haskell
