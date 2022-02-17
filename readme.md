@@ -29,7 +29,9 @@ Yes! You can read contributing.md for contributing.
 - javascript
 - kotlin
 - lisp
+- logo
 - lua
+- mq
 - Objective-c
 - ocaml
 - perl
