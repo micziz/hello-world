@@ -4,7 +4,7 @@
 A collection of hello world files in every programming language tested!
 
 ## Can i Contribute?
-Yes! You can reado contributing.md for contributing.
+Yes! You can read contributing.md for contributing.
 
 ## Current languages in this repo:
 
