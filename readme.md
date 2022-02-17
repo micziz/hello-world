@@ -28,6 +28,7 @@ Yes! You can reado contributing.md for contributing.
 - perl
 - php
 - powershell
+- prolog
 - python
 - ruby
 - rust
