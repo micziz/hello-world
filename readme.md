@@ -10,6 +10,7 @@ Yes! You can reado contributing.md for contributing.
 
 - applescript
 - bash
+- basic
 - bathc
 - c
 - c++
