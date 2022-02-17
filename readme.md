@@ -36,11 +36,13 @@ Yes! You can read contributing.md for contributing.
 - mq
 - Objective-c
 - ocaml
+- pascal
 - perl
 - php
 - powershell
 - prolog
 - python
+- r
 - ruby
 - rust
 - scala
