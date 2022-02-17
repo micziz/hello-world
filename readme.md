@@ -32,6 +32,7 @@ Yes! You can reado contributing.md for contributing.
 - ruby
 - rust
 - swift
+- zig
 
 
 
