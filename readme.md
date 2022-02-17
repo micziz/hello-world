@@ -13,6 +13,7 @@ Yes! You can reado contributing.md for contributing.
 - bathc
 - c
 - c++
+- cobol
 - csharp
 - dart
 - erlang
