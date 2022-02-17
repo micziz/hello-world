@@ -15,11 +15,13 @@ Yes! You can read contributing.md for contributing.
 - bathc
 - c
 - c++
+- Clojure
 - cobol
 - csharp
 - dart
-- erlang
 - elixir
+- erlang
+- Ezhil
 - fortran
 - go
 - haskell
