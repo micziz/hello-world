@@ -27,6 +27,7 @@ Yes! You can read contributing.md for contributing.
 - fortran
 - go
 - haskell
+- html
 - java
 - javascript
 - kotlin
@@ -50,6 +51,8 @@ Yes! You can read contributing.md for contributing.
 - standard ml
 - swift
 - tcl
+- typescript
+
 - zig
 
 
