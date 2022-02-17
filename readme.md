@@ -49,6 +49,7 @@ Yes! You can read contributing.md for contributing.
 - scala
 - standard ml
 - swift
+- tcl
 - zig
 
 
