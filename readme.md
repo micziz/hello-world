@@ -17,6 +17,7 @@ Yes! You can reado contributing.md for contributing.
 - dart
 - erlang
 - elixir
+- fortran
 - go
 - haskell
 - java
@@ -25,6 +26,7 @@ Yes! You can reado contributing.md for contributing.
 - lisp
 - lua
 - Objective-c
+- ocaml
 - perl
 - php
 - powershell
