@@ -9,6 +9,7 @@ Yes! You can read contributing.md for contributing.
 ## Current languages in this repo:
 
 - applescript
+- ballerina
 - bash
 - basic
 - bathc
