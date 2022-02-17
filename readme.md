@@ -41,6 +41,7 @@ Yes! You can read contributing.md for contributing.
 - python
 - ruby
 - rust
+- scala
 - standard ml
 - swift
 - zig
