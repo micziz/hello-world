@@ -22,6 +22,7 @@ Yes! You can reado contributing.md for contributing.
 - java
 - javascript
 - kotlin
+- lisp
 - lua
 - Objective-c
 - perl
