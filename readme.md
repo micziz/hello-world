@@ -17,6 +17,7 @@ Yes! You can read contributing.md for contributing.
 - c++
 - Clojure
 - cobol
+- coffescript
 - csharp
 - dart
 - elixir
