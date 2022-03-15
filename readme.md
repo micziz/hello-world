@@ -49,6 +49,7 @@ Yes! You can read contributing.md for contributing.
 - rust
 - scala
 - standard ml
+- spwn
 - swift
 - tcl
 - typescript
